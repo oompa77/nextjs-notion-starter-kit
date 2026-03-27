@@ -1,3 +1,38 @@
+@font-face {
+  font-family: 'CJ_ONLYONE';
+  src: url('/fonts/CJ_ONLYONE_300.woff2') format('woff2');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'CJ_ONLYONE';
+  src: url('/fonts/CJ_ONLYONE_400.woff2') format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'CJ_ONLYONE';
+  src: url('/fonts/CJ_ONLYONE_500.woff2') format('woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'CJ_ONLYONE';
+  src: url('/fonts/CJ_ONLYONE_600.woff2') format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'CJ_ONLYONE';
+  src: url('/fonts/CJ_ONLYONE_700.woff2') format('woff2');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'CJ_ONLYONE';
+  src: url('/fonts/CJ_ONLYONE_800.woff2') format('woff2');
+  font-weight: 800;
+}
+
+* {
+  font-family: 'CJ_ONLYONE', sans-serif;
+}
+
 * {
   box-sizing: border-box;
 }
